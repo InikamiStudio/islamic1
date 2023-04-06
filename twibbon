@@ -27,20 +27,20 @@
 
     }
   ],
-     "Categories": [
+  "Categories": [
     {
       "category": "Hari Nasional",
-      "image_link": "rectangle/farmasi.png"
+      "image_link": "rectangle/pers.png"
 
     },
     {
       "category": "Idul Fitri 2023",
-      "image_link": "https://drive.google.com/u/0/uc?id=1c72W4eZ64GoWE_zyrL8fpcfezvkTOZGy&export=download"
+      "image_link": "https://drive.google.com/u/0/uc?id=1KvShkb_klA7kqZaSazli4ZBAlenVZr1T&export=download"
 
     },
       {
       "category": "Idul Adha 2023",
-      "image_link": "https://drive.google.com/u/0/uc?id=16KYknsta5Y8BIy392HpTRee15vesjCFJ&export=download"
+      "image_link": "https://drive.google.com/u/0/uc?id=1fIzvLdLuZOYBDfFi2gJXsvVdpQdtIJNv&export=download"
 
     },
       {
@@ -50,27 +50,27 @@
     },
     {
       "category": "Lain-Lain",
-      "image_link": "rectangle/imlek1.png"
+      "image_link": "rectangle/nu1.webp"
 
     },
     {
-      "category": "Keagamaan",
-      "image_link": "rectangle/israa.png"
+      "category": "Hari Besar Islam",
+      "image_link": "rectangle/israb.png"
 
     },
     {
-      "category": "Kalender",
-      "image_link": "rectangle/kalender1.png"
+      "category": "Kalender BTS",
+      "image_link": "rectangle/kalender2.png"
 
     },
     {
-      "category": "Undangan",
-      "image_link":  "portrait/wedding2.png"
+      "category": "Kartu Ucapan",
+      "image_link":  "portrait/wedding1.png"
 
     },
     {
-      "category": "Brosur",
-      "image_link":  "portrait/cuci.png"
+      "category": "Flayer",
+      "image_link":  "portrait/ojol.png"
 
     }
   ],
@@ -88,7 +88,7 @@
       "type": 1,
       "category": "Hari Nasional",
       "title": "Hari Persatuan Farmasi Indonesia 2",
-      "image_link": "rectangle/farmasi2.png"
+      "image_link": "rectangle/pers.png"
     },
     {
       "id": 3,
@@ -107,28 +107,28 @@
     {
       "id": 5,
       "type": 1,
-      "category": "Keagamaan",
+      "category": "Hari Besar Islam",
       "title": "Peringatan Isra Mi'raj 1",
       "image_link": "rectangle/israa.png"
     },
     {
       "id": 6,
       "type": 1,
-      "category": "Keagamaan",
+      "category": "Hari Besar Islam",
       "title": "Peringatan Isra Mi'raj 2",
       "image_link": "rectangle/israb.png"
     },
     {
       "id": 7,
       "type": 1,
-      "category": "Kalender",
+      "category": "Kalender BTS",
       "title": "Kalender BTS Maret 2022",
       "image_link": "rectangle/kalender1.png"
     },
     {
       "id": 8,
       "type": 1,
-      "category": "Kalender",
+      "category": "Kalender BTS",
       "title": "Kalender BTS Mei 2022",
       "image_link": "rectangle/kalender2.png"
     },
@@ -214,14 +214,14 @@
     {
       "id": 20,
       "type": 2,
-      "category": "Brosur",
+      "category": "Flayer",
       "title": "Kehilangan Anjing",
       "image_link": "portrait/dog.png"
     },
     {
       "id": 21,
       "type": 2,
-      "category": "Brosur",
+      "category": "Flayer",
       "title": "Pamflet Orderan Ojol",
       "image_link": "portrait/ojol.png"
     },
@@ -235,42 +235,42 @@
     {
       "id": 24,
       "type": 2,
-      "category": "Brosur",
+      "category": "Flayer",
       "title": "Iklan Laundry",
       "image_link": "portrait/cuci.png"
     },
     {
       "id": 25,
       "type": 2,
-      "category": "Undangan",
+      "category": "Kartu Ucapan",
       "title": "Undangan Pernikahan",
       "image_link": "portrait/wedding.png"
     },
     {
       "id": 25,
       "type": 2,
-      "category": "Undangan",
+      "category": "Kartu Ucapan",
       "title": "Undangan Pernikahan",
       "image_link": "portrait/wedding2.png"
     },
     {
       "id": 26,
       "type": 2,
-      "category": "Undangan",
+      "category": "Kartu Ucapan",
       "title": "Undangan Ulang Tahun",
       "image_link": "portrait/ultah.png"
     },
     {
       "id": 27,
       "type": 2,
-      "category": "Undangan",
+      "category": "Kartu Ucapan",
       "title": "Undangan Ulang Tahun",
       "image_link": "portrait/ultah2.png"
     },
     {
       "id": 28,
       "type": 2,
-      "category": "Brosur",
+      "category": "Flayer",
       "title": "Desain Flyer",
       "image_link": "portrait/brosur.png"
     },
