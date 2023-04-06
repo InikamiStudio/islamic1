@@ -4,9 +4,9 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-4605118990591686/6585717315",
-      "main_ads_intertitial":"ca-app-pub-4605118990591686/4694984320",
-      "main_ads_natives":"ca-app-pub-4605118990591686/1221847011",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
@@ -35,12 +35,12 @@
     },
     {
       "category": "Idul Fitri 2023",
-      "image_link": "https://drive.google.com/u/0/uc?id=1KvShkb_klA7kqZaSazli4ZBAlenVZr1T&export=download"
+      "image_link": "https://drive.google.com/u/0/uc?id=1c72W4eZ64GoWE_zyrL8fpcfezvkTOZGy&export=download"
 
     },
       {
       "category": "Idul Adha 2023",
-      "image_link": "https://drive.google.com/u/0/uc?id=1fIzvLdLuZOYBDfFi2gJXsvVdpQdtIJNv&export=download"
+      "image_link": "https://drive.google.com/u/0/uc?id=16KYknsta5Y8BIy392HpTRee15vesjCFJ&export=download"
 
     },
       {
