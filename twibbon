@@ -65,7 +65,7 @@
     },
     {
       "category": "Kartu Ucapan",
-      "image_link":  "portrait/wedding1.png"
+      "image_link":  "portrait/ultah2.png"
 
     },
     {
@@ -228,7 +228,7 @@
     {
       "id": 22,
       "type": 2,
-      "category": "Lain-Lain",
+      "category": "Kartu Ucapan",
       "title": "Ucapan Selamat",
       "image_link": "portrait/selamat.png"
     },
