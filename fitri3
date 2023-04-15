@@ -1,7 +1,7 @@
 {
 	"Ads": [{
 		"select_main_ads": "ADMOB",
-		"select_backup_ads": "APPLOVIN-D",
+		"select_backup_ads": "APPLOVIN-M",
 		"main_ads_banner": "ca-app-pub-4605118990591686/8835347800",
 		"main_ads_intertitial": "ca-app-pub-4605118990591686/8153693663",
 		"main_ads_natives": "ca-app-pub-4605118990591686/2980385897",
@@ -736,7 +736,7 @@
 			"type": 1,
 			"category": "Hari Kartini 2023",
 			"title": "Hari Kartini 2023 9",
-			"image_link": "https://drive.google.com/u/0/uc?id=1NYw50_B3diIQ7y61MIoN8a4j2M5aDmzp&export=download"
+			"image_link": "https://drive.google.com/u/0/uc?id=1WsokQQP76Z-qOuynlExW4qR9i5VBc1Vh&export=download"
 		},
 		{
 			"id": 100,
