@@ -2,17 +2,17 @@
 	"Ads": [{
 		"select_main_ads": "ADMOB",
 		"select_backup_ads": "APPLOVIN-M",
-		"main_ads_banner": "ca-app-pub-4605118990591686/8835347800",
-		"main_ads_intertitial": "ca-app-pub-4605118990591686/8153693663",
-		"main_ads_natives": "ca-app-pub-4605118990591686/2980385897",
-		"backup_ads_natives": "8d448f4b194f344c",
-		"backup_ads_banner": "6f162d56d90cffed",
-		"backup_ads_intertitial": "6f45229e15d1c518",
+		"main_ads_banner": "ca-app-pub-4605118990591686/8421188919",
+		"main_ads_intertitial": "52d7f8fa43679e8d",
+		"main_ads_natives": "ca-app-pub-4605118990591686/2282569241",
+		"backup_ads_natives": "	3826537d7b346837",
+		"backup_ads_banner": "8ec9e1b272cc5736",
+		"backup_ads_intertitial": "5c5ce784d496170a",
 		"open_ads_admob": "",
 		"open_ads_alien": "",
 		"switch_open_ads": "1",
 		"switch_banner_natives_ads": "",
-		"interval_intertitial": 3,
+		"interval_intertitial": 2,
 		"initialize_sdk": "107355779",
 		"initialize_sdk_backup_ads": "",
 		"high_paying_keyword_1": "",
@@ -26,22 +26,22 @@
 	}],
 	"Categories": [{
 			"category": "Idul Fitri 2023",
-			"image_link": "https://drive.google.com/u/0/uc?id=1203hhZq42MfWqZvOkV3GktNlh6VCZjOe&export=download"
+			"image_link": "https://drive.google.com/u/0/uc?id=1Ked0OtHNkeILfTy0M9o9oKuEmjru-eQW&export=download"
 
 		},
 		{
 			"category": "Idul Adha 2023",
-			"image_link": "https://drive.google.com/u/0/uc?id=1KfzNW0_0wheI1xz48Dzz1RGeGEKq27dM&export=download"
+			"image_link": "https://drive.google.com/u/0/uc?id=16KYknsta5Y8BIy392HpTRee15vesjCFJ&export=download"
 
 		},
 		{
 			"category": "Hari Kartini 2023",
-			"image_link": "https://drive.google.com/u/0/uc?id=1drdvI91c2rRnoKzCSAxnzK4q9NMqZV1U&export=download"
+			"image_link": "https://drive.google.com/u/0/uc?id=1SEZ_JmwXaJHI9yMK3Yf2bWKMUobSNvkL&export=download"
 
 		},
 		{
 			"category": "Lain-Lain",
-			"image_link": "rectangle/nu1.webp"
+			"image_link": "rectangle/imlek2.png"
 
 		}
 	],
