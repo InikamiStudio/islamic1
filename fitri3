@@ -40,6 +40,11 @@
 
 		},
 		{
+    			 "category": "Hari Waisak 2023",
+     			 "image_link": "https://drive.google.com/u/0/uc?id=1WY1FAmfliIEbNgUt1tksZkgLdlREmJoc&export=download"
+
+    		},
+		{
 			"category": "Lain-Lain",
 			"image_link": "rectangle/imlek2.png"
 
@@ -808,6 +813,34 @@
 			"image_link": "https://drive.google.com/u/0/uc?id=127a8dmEwoG3ABSt9zhOoxVz8ZW3-NHn5&export=download"
 		},
 
+ {
+      "id": 110,
+      "type": 1,
+      "category": "Hari Waisak 2023",
+      "title": "Hari Waisak 2023 1",
+      "image_link": "https://drive.google.com/u/0/uc?id=1WY1FAmfliIEbNgUt1tksZkgLdlREmJoc&export=download"
+     },
+{
+      "id": 111,
+      "type": 1,
+      "category": "Hari Waisak 2023",
+      "title": "Hari Waisak 2023 2",
+      "image_link": "https://drive.google.com/u/0/uc?id=1krgp_z-5j-tCt8V3wYSoaH0pY7y9swp3&export=download"
+     },
+{
+      "id": 112,
+      "type": 1,
+      "category": "Hari Waisak 2023",
+      "title": "Hari Waisak 2023 3",
+      "image_link": "https://drive.google.com/u/0/uc?id=1GyOqn0l2mt-MpLrCNFz4PhWSLd251Xzc&export=download"
+     },
+{
+      "id": 113,
+      "type": 1,
+      "category": "Hari Waisak 2023",
+      "title": "Hari Waisak 2023 4",
+      "image_link": "https://drive.google.com/u/0/uc?id=1GASWwQT8uXlNZLiMs4TEnFASTRYtZXdY&export=download"
+     },
 
 		{
 			"id": 133,
